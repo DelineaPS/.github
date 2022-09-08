@@ -6,6 +6,12 @@ No customer specific information will be contained in any documents or scripts p
 
 For more information about contacting Delinea's Professional Services team, visit: https://delinea.com/professional-services
 
+## Starter Kits
+
+Deployment Starter Kits are quick guides intended for technical folks reponsible for implementing Delinea products into their environment. The idea with these documents is that it is a brief summary of what the product does, and what infrastructure and port requirements are needed to support a bare-bones installation of said product.
+
+With these guides, the hope is that most of the common "what do we need" questions are addressed by a 5-10 page .pdf.
+
 <!--
 
 **Here are some ideas to get you started:**
