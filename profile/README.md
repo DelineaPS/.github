@@ -12,6 +12,18 @@ Deployment Starter Kits are quick guides intended for technical folks reponsible
 
 With these guides, the hope is that most of the common "what do we need" questions are addressed by a 5-10 page .pdf.
 
+Each product will have its own Starter Kit guide as separate repos.
+
+## Community Editions
+
+Community Editions are Bookdown (https://bookdown.org/) websites that will contain PS-contributed articles for PS and customers alike to assist with quirks or special use cases that are not covered by online documentation. For example, if online documentation contains an article on how to integrate Okta with Cloud Suite, but does not have one covering integration of RSA with Cloud Suite, then the Community Edition is the place for such an article. Over time, this resource should be very useful for consultants and customers alike.
+
+Contributing an article is also very simple. A folder with a plain-text file (an .Rmd, RMarkdown) and any associated graphics is all that is needed to contribute an article. No special software is required.
+
+Bookdown websites are also mobile-friendly and offer a Delinea-branded .pdf download for offline view.
+
+Each product will have its own Community Edition guide as separate repos.
+
 <!--
 
 **Here are some ideas to get you started:**
