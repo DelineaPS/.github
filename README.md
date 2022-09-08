@@ -1,2 +1,3 @@
 # .github
-Delinea's Professional Services organization
+
+The Readme repo
