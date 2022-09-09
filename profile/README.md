@@ -20,7 +20,7 @@ Community Editions are Bookdown (https://bookdown.org/) websites that will conta
 
 Contributing an article is also very simple. A folder with a plain-text file (an .Rmd, RMarkdown) and any associated graphics is all that is needed to contribute an article. No special software is required.
 
-Bookdown websites are also mobile-friendly and offer a Delinea-branded .pdf download for offline view.
+Bookdown websites are also mobile-friendly and offer a Delinea-branded .pdf download for offline viewing.
 
 Each product will have its own Community Edition guide as separate repos.
 
